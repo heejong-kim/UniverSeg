@@ -66,8 +66,8 @@ pip install git+https://github.com/JJGO/UniverSeg.git
 
 ```shell
 git clone https://github.com/JJGO/UniverSeg
-python -m pip install -r ./UniverSeg/requirements.txt
-export PYTHONPATH="$PYTHONPATH:$(realpath ./UniverSeg)"
+python -m pip install -r ./UniverSegOrig/requirements.txt
+export PYTHONPATH="$PYTHONPATH:$(realpath ./UniverSegOrig)"
 ```
 
 
